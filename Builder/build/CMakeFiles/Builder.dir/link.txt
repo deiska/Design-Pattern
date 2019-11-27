@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Builder.dir/Director.cc.o CMakeFiles/Builder.dir/LinuxApplication.cc.o CMakeFiles/Builder.dir/test.cc.o  -o Builder -lpthread 

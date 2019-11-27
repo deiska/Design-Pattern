@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geo/work/projects/Singleton/Singleton.h
+iostream
+-
+thread
+-
+mutex
+-
+
+/home/geo/work/projects/Singleton/StaticSingleton.h
+iostream
+-
+
+/home/geo/work/projects/Singleton/test.cc
+iostream
+-
+Singleton.h
+/home/geo/work/projects/Singleton/Singleton.h
+StaticSingleton.h
+/home/geo/work/projects/Singleton/StaticSingleton.h
+

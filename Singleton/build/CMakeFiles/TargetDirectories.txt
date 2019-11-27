@@ -1,0 +1,3 @@
+/home/geo/work/projects/Singleton/build/CMakeFiles/rebuild_cache.dir
+/home/geo/work/projects/Singleton/build/CMakeFiles/Singleton.dir
+/home/geo/work/projects/Singleton/build/CMakeFiles/edit_cache.dir

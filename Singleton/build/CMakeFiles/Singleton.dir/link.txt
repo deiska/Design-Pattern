@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Singleton.dir/test.cc.o  -o Singleton -lpthread 

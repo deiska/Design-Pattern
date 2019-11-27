@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Prototype.dir/test.cc.o  -o Prototype -lpthread 

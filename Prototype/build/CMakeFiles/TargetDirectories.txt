@@ -1,0 +1,3 @@
+/home/geo/work/projects/Prototype/build/CMakeFiles/rebuild_cache.dir
+/home/geo/work/projects/Prototype/build/CMakeFiles/Prototype.dir
+/home/geo/work/projects/Prototype/build/CMakeFiles/edit_cache.dir
