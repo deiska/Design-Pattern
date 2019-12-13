@@ -15,6 +15,6 @@ link_directories(
 
 aux_source_directory(. sourceList)
 
-add_executable(Factory ${sourceList})
+add_executable(Facade ${sourceList})
 
-target_link_libraries(Factory pthread)
+target_link_libraries(Facade pthread)
