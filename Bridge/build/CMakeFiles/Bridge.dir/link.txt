@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Bridge.dir/LenovoComputer.cc.o CMakeFiles/Bridge.dir/LinuxSystem.cc.o CMakeFiles/Bridge.dir/test.cc.o  -o Bridge -lpthread 

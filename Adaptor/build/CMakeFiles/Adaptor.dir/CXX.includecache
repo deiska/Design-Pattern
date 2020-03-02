@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geo/work/projects/Design-Pattern/Adaptor/Adaptee.h
+iostream
+-
+
+/home/geo/work/projects/Design-Pattern/Adaptor/Adapter.h
+iostream
+-
+Target.h
+/home/geo/work/projects/Design-Pattern/Adaptor/Target.h
+Adaptee.h
+/home/geo/work/projects/Design-Pattern/Adaptor/Adaptee.h
+
+/home/geo/work/projects/Design-Pattern/Adaptor/Target.h
+iostream
+-
+
+/home/geo/work/projects/Design-Pattern/Adaptor/test.cc
+iostream
+-
+Adapter.h
+/home/geo/work/projects/Design-Pattern/Adaptor/Adapter.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Facade.dir/test.cc.o  -o Facade -lpthread 

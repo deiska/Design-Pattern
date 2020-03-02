@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Decorator.dir/ConcreteComponent.cc.o CMakeFiles/Decorator.dir/ConcreteDecorator.cc.o CMakeFiles/Decorator.dir/Decorator.cc.o CMakeFiles/Decorator.dir/test.cc.o  -o Decorator -lpthread 

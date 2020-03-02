@@ -1,0 +1,3 @@
+/home/geo/work/projects/Design-Pattern/Bridge/build/CMakeFiles/edit_cache.dir
+/home/geo/work/projects/Design-Pattern/Bridge/build/CMakeFiles/rebuild_cache.dir
+/home/geo/work/projects/Design-Pattern/Bridge/build/CMakeFiles/Bridge.dir

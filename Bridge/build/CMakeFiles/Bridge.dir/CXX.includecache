@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geo/work/projects/Design-Pattern/Bridge/AbstractComputer.h
+iostream
+-
+AbstractSystem.h
+/home/geo/work/projects/Design-Pattern/Bridge/AbstractSystem.h
+
+/home/geo/work/projects/Design-Pattern/Bridge/AbstractSystem.h
+iostream
+-
+
+/home/geo/work/projects/Design-Pattern/Bridge/LenovoComputer.cc
+LenovoComputer.h
+/home/geo/work/projects/Design-Pattern/Bridge/LenovoComputer.h
+
+/home/geo/work/projects/Design-Pattern/Bridge/LenovoComputer.h
+iostream
+-
+AbstractComputer.h
+/home/geo/work/projects/Design-Pattern/Bridge/AbstractComputer.h
+AbstractSystem.h
+/home/geo/work/projects/Design-Pattern/Bridge/AbstractSystem.h
+
+/home/geo/work/projects/Design-Pattern/Bridge/LinuxSystem.h
+iostream
+-
+AbstractSystem.h
+/home/geo/work/projects/Design-Pattern/Bridge/AbstractSystem.h
+
+/home/geo/work/projects/Design-Pattern/Bridge/test.cc
+iostream
+-
+LinuxSystem.h
+/home/geo/work/projects/Design-Pattern/Bridge/LinuxSystem.h
+LenovoComputer.h
+/home/geo/work/projects/Design-Pattern/Bridge/LenovoComputer.h
+

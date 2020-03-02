@@ -1,0 +1,3 @@
+/home/geo/work/1690work/projects/Design-Pattern/Composite/build/CMakeFiles/rebuild_cache.dir
+/home/geo/work/1690work/projects/Design-Pattern/Composite/build/CMakeFiles/Composite.dir
+/home/geo/work/1690work/projects/Design-Pattern/Composite/build/CMakeFiles/edit_cache.dir

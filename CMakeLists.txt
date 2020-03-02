@@ -24,6 +24,7 @@ set(PROJECT_BUILD_PATH ${PROJECT_PATH}/build)
 
 ##other folders
 add_subdirectory(Factory)
+add_subdirectory(Composite)
 
 # aux_source_directory(. sourceList)
 # add_executable(DesignPattern ${sourceList})

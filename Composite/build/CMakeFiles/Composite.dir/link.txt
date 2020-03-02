@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Composite.dir/Composite.cc.o CMakeFiles/Composite.dir/Leaf.cc.o CMakeFiles/Composite.dir/test.cc.o  -o Composite -lpthread 

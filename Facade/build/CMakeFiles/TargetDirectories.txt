@@ -1,0 +1,3 @@
+/home/geo/work/1690work/projects/Design-Pattern/Facade/build/CMakeFiles/rebuild_cache.dir
+/home/geo/work/1690work/projects/Design-Pattern/Facade/build/CMakeFiles/Facade.dir
+/home/geo/work/1690work/projects/Design-Pattern/Facade/build/CMakeFiles/edit_cache.dir
