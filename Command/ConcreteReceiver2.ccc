@@ -1,0 +1,11 @@
+#include <iostream>
+#include "ConcreteReceiver2.h"
+
+ConcreteReceiver2::ConcreteReceiver2(/* args */)
+{
+}
+
+ConcreteReceiver2::~ConcreteReceiver2()
+{
+}
+

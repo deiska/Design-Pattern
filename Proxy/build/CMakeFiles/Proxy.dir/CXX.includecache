@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geo/work/projects/Design-Pattern/Proxy/Proxy.h
+iostream
+-
+Subject.h
+/home/geo/work/projects/Design-Pattern/Proxy/Subject.h
+RealSubject.h
+/home/geo/work/projects/Design-Pattern/Proxy/RealSubject.h
+
+/home/geo/work/projects/Design-Pattern/Proxy/RealSubject.h
+iostream
+-
+Subject.h
+/home/geo/work/projects/Design-Pattern/Proxy/Subject.h
+
+/home/geo/work/projects/Design-Pattern/Proxy/Subject.h
+iostream
+-
+
+/home/geo/work/projects/Design-Pattern/Proxy/test.cc
+iostream
+-
+Proxy.h
+/home/geo/work/projects/Design-Pattern/Proxy/Proxy.h
+

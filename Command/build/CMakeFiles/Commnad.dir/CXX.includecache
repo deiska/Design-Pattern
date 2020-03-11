@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geo/work/projects/Design-Pattern/Command/Command.h
+iostream
+-
+Receiver.h
+/home/geo/work/projects/Design-Pattern/Command/Receiver.h
+
+/home/geo/work/projects/Design-Pattern/Command/ConcreteCommand.h
+iostream
+-
+Command.h
+/home/geo/work/projects/Design-Pattern/Command/Command.h
+Receiver.h
+/home/geo/work/projects/Design-Pattern/Command/Receiver.h
+
+/home/geo/work/projects/Design-Pattern/Command/Invoke.h
+iostream
+-
+list
+-
+Command.h
+/home/geo/work/projects/Design-Pattern/Command/Command.h
+
+/home/geo/work/projects/Design-Pattern/Command/Receiver.h
+iostream
+-
+
+/home/geo/work/projects/Design-Pattern/Command/test.cc
+iostream
+-
+ConcreteCommand.h
+/home/geo/work/projects/Design-Pattern/Command/ConcreteCommand.h
+Receiver.h
+/home/geo/work/projects/Design-Pattern/Command/Receiver.h
+Invoke.h
+/home/geo/work/projects/Design-Pattern/Command/Invoke.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Commnad.dir/Invode.cc.o CMakeFiles/Commnad.dir/test.cc.o  -o Commnad -lpthread 

@@ -71,6 +71,5 @@ int main()
 
     delete facade;
 
-
     return 0;
 }

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Component.h
+iostream
+-
+
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Composite.cc
+Composite.h
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Composite.h
+
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Composite.h
+iostream
+-
+vector
+-
+list
+-
+Component.h
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Component.h
+
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Leaf.cc
+Leaf.h
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Leaf.h
+
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Leaf.h
+iostream
+-
+Component.h
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Component.h
+
+/home/geo/work/1690work/projects/Design-Pattern/Composite/test.cc
+iostream
+-
+Leaf.h
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Leaf.h
+Composite.h
+/home/geo/work/1690work/projects/Design-Pattern/Composite/Composite.h
+

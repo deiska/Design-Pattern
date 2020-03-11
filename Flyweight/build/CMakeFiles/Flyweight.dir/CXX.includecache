@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/ConcreteFlyweight.h
+iostream
+-
+Flyweight.h
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/Flyweight.h
+
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/Flyweight.h
+iostream
+-
+map
+-
+
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/FlyweightFactory.h
+iostream
+-
+ConcreteFlyweight.h
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/ConcreteFlyweight.h
+
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/test.cc
+iostream
+-
+Flyweight.h
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/Flyweight.h
+ConcreteFlyweight.h
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/ConcreteFlyweight.h
+FlyweightFactory.h
+/home/geo/work/1690work/projects/Design-Pattern/Flyweight/FlyweightFactory.h
+

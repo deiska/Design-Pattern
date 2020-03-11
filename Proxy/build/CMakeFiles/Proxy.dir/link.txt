@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Proxy.dir/test.cc.o  -o Proxy -lpthread 

@@ -1,0 +1,20 @@
+#include <iostream>
+#include "ConcreteReceiver1.h"
+
+ConcreteReceiver1::ConcreteReceiver1(/* args */)
+{
+}
+
+ConcreteReceiver1::~ConcreteReceiver1()
+{
+}
+
+// void ConcreteReceiver1::execute()
+// {
+
+// }
+
+// int setReceiver(Receiver * receiver)
+// {
+
+// }

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/geo/work/projects/Design-Pattern/ChainOfResponsibility/Handle.h
+iostream
+-
+
+/home/geo/work/projects/Design-Pattern/ChainOfResponsibility/test.cc
+iostream
+-
+Handle.h
+/home/geo/work/projects/Design-Pattern/ChainOfResponsibility/Handle.h
+

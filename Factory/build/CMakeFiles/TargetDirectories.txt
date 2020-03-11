@@ -1,0 +1,3 @@
+/home/geo/work/projects/Factory/build/CMakeFiles/rebuild_cache.dir
+/home/geo/work/projects/Factory/build/CMakeFiles/Factory.dir
+/home/geo/work/projects/Factory/build/CMakeFiles/edit_cache.dir
